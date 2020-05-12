@@ -11,6 +11,7 @@ class ABdemo{
 	}
 }
 
+//fuck that shit
 abstract class Phone{
 	public abstract void showConfig();
 }
