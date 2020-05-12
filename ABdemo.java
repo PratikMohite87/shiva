@@ -21,7 +21,7 @@ class Iphone extends Phone{
 		System.out.println("Iphone");
 	}
 }
-
+//less fuck given
 class SamsungS4 extends Phone{
 	public void showConfig(){
 		System.out.println("SamsungS4");
