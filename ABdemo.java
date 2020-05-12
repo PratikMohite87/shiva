@@ -15,7 +15,7 @@ class ABdemo{
 abstract class Phone{
 	public abstract void showConfig();
 }
-
+//fuck that shit again
 class Iphone extends Phone{
 	public void showConfig(){
 		System.out.println("Iphone");
